@@ -1,0 +1,19 @@
+{
+  "name": "shopping-list",
+  "version": "1.0.0",
+  "description": "Simple usage of HTML, CSS, DOM, and JavaScript in order to utilize DOM manipulation on a list of grocery items.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carstonsrc/shopping-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carstonsrc/shopping-list/issues"
+  },
+  "homepage": "https://github.com/carstonsrc/shopping-list#readme"
+}
